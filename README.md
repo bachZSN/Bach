@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bachissad
 - 👀 I’m interested in you
-- 🌱 I’m currently learning C++,Java
+- 🌱 I’m currently learning C++,Java,Haskell
 - 💞️ I’m looking to collaborate on Pandemie
 - 📫 How to reach me: visit me
 
